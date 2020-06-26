@@ -1,3 +1,9 @@
+/*
+  Time Complexity : O(n) - Best Case
+                    O(n^2) - Average Case
+                    O(n^2) - Worst Case 
+*/
+
 var arr = [34,57,2,4,1,64,8]
 
 var n = arr.length;
@@ -22,8 +28,3 @@ for(var i= 0; i< n-1;i++){
         break;
 }
 
-/*
-  Time Complexity : O(n) - Best Case
-                    O(n^2) - Average Case
-                    O(n^2) - Worst Case 
-*/

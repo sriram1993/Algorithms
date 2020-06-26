@@ -1,3 +1,9 @@
+/*
+  Time Complexity : O(n^2) - Same for Best, Average and Worst Case 
+  Auxilary Space : O(1)
+  In place Sorting : Yes
+*/
+
 var arr = [64,57,2,4,1,34,8]
 
 
@@ -17,8 +23,3 @@ for(var i=0;i < n-1; i++ ){
      console.log(arr);
 }
 
-/*
-  Time Complexity : O(n^2) - Same for Best, Average and Worst Case 
-  Auxilary Space : O(1)
-  In place Sorting : Yes
-*/
