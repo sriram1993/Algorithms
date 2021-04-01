@@ -16,4 +16,5 @@ for(var i=1;i< n;i ++){
         j = j-1
     }
     arr[j + 1] = key; 
+    console.log("Hello");
 }
